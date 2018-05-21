@@ -1,3 +1,3 @@
-# ITMO_ALL_LABS
+# ITMO
 
 Parsing Test.zip - Файлы SCORM - пакета
