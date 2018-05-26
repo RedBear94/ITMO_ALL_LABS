@@ -4,7 +4,7 @@ I. Семестровые
 
 1. SCORM-пакет (по дисциплине CMS/LMS)
 
-Parsing Test.zip - Файлы SCORM - пакета, размещенного на
+Parsing Test.zip - Файлы SCORM - пакета, размещенного на:
 
 https://pavel.moodlecloud.com/login/index.php
 
