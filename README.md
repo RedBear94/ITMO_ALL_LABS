@@ -10,7 +10,7 @@ https://pavel.moodlecloud.com/login/index.php
 
 II. Лабораторные
 
-1. Проект с оператором bind от 02.03.2018 (https://kodaktor.ru/bind02032018)
+1. Проект с оператором bind от 02.03.2018 (https://kodaktor.ru/bind02032018) (1/index.html)
 
 2. Последовательное выполнение асинхронных заданий в цикле (30.03.2018)
 
