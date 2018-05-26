@@ -5,6 +5,7 @@ I. Семестровые
 1. SCORM-пакет (по дисциплине CMS/LMS)
 
 Parsing Test.zip - Файлы SCORM - пакета
+
 https://pavel.moodlecloud.com/login/index.php
 
 2. Корзина пользователя с drag и кастомными событиями (по дисциплине веб-языки)
