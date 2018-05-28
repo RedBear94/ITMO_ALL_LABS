@@ -1,6 +1,6 @@
 ## WP REST API
 
-Спомощью curl получил заголовки постов на моем wp сайте https://redbear95.000webhostapp.com
+Спомощью curl получены заголовки постов на моем wp сайте https://redbear95.000webhostapp.com
 
 ```bash
 echo module.exports = > posts.js
