@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400&amp;subset=cyrillic" rel="stylesheet">
+  <link rel="stylesheet" href="./style.css">
+  <title>Cart</title>
+</head>
+<body>
+  <main>
+    <section class="shop">
+      <ul id="shop__list" class="shop__list"></ul>
+    </section>
+    <section class="cart">
+      <div class="cart__info">
+        <div class="cart__info-rest">Осталось: <span id="cart__rest-num"></span>$</div>
+        <div class="cart__info-max">Из: <span id="cart__max-num"></span>$</div>
+      </div>
+      <ul id="cart__list" class="cart__list"></ul>
+      <div class="cart__info">
+        <div class="cart__info-sum">Сумма: <span id="cart__sum-num"></span>$</div>
+      </div>
+    </section>
+    <small id="hint">Двойной клик, чтобы удалить из корзины</small>
+  </main> 
+  <script src="./main.js"></script>
+</body>
+</html>
