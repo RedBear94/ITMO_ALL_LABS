@@ -1,37 +1,37 @@
 [
   {
     "id": 0,
-    "name": "Lorem",
+    "name": "Purchase 1",
     "price": 100
   },
   {
     "id": 1,
-    "name": "Ipsum",
+    "name": "Purchase 2",
     "price": 200
   },
   {
     "id": 2,
-    "name": "Dolor",
+    "name": "Purchase 3",
     "price": 500
   },
   {
     "id": 3,
-    "name": "Sit",
+    "name": "Purchase 4",
     "price": 1000
   },
   {
     "id": 4,
-    "name": "Amet",
+    "name": "Purchase 5",
     "price": 2000
   },
   {
     "id": 5,
-    "name": "Consectetur",
+    "name": "Purchase 6",
     "price": 5000
   },
   {
     "id": 6,
-    "name": "Adipisicing",
+    "name": "Purchase 7",
     "price": 50
   }
 ]
